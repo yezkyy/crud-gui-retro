@@ -42,8 +42,8 @@ To set up and run the application locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
+   git clone https://github.com/yezkyy/crud-gui-retro.git
+   cd crud-gui-retro
    ```
 2. **Install Dependencies**
 
